@@ -10,6 +10,6 @@ In this specialization, we'll discuss the current and future applications of AI 
 
 This specialization is designed for both healthcare providers and computer science professionals, offering insights to facilitate collaboration between the disciplines.
 
-##Applied Learning Project
+## Applied Learning Project
 
 The final course will consist of a capstone project that will take you on a guided tour exploring all the concepts we have covered in the different classes. This will be a hands-on experience following a patient's journey from the lens of the data, using a unique dataset created for this specialization.We will review how the different choices you make -- such as those around feature construction, the data types to use, how the model evaluation is set up and how you handle the patient timeline -- affect the care that would be recommended by the model.
