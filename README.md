@@ -16,4 +16,4 @@ The final course will consist of a capstone project that will take you on a guid
 
 ## Certificate :sparkles:
 
-![final](./public/images/final.png)
+![final](./public/images/Final.png)
